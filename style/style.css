@@ -1,0 +1,38 @@
+body{
+	font-family: sans-serif;
+	background: url(../img/bck.jpg);
+	width:0 auto ;
+	margin: 150px;
+	background: cover;
+}
+.divi{
+	
+	text-align: center;
+
+}
+.navi{
+  
+  
+}
+.navi button{
+	width: 250px;
+	height:90px;
+	background: black;
+
+}
+
+
+.navi a{
+	font-size: 30px;
+	background: black;
+	color: white;
+	width: 200px;
+	height: 200px;
+	border: 5px;
+}
+.divi h1{
+	background-color: black;
+	color: white;
+	width: 50%;
+	height: 50%;
+	}
